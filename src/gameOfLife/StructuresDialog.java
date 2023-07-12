@@ -19,6 +19,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.ListSelectionModel;
 
+// Author Wikcio
 public class StructuresDialog extends JDialog {
 	
 	private static final long serialVersionUID = 1L;

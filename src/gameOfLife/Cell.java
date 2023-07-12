@@ -2,6 +2,7 @@ package gameOfLife;
 
 import java.awt.Color;
 
+// Author: MŒ
 public class Cell {
 	private static final int XPOS_NEIGHBOURS[] = {1, 1, 1, 0, -1, -1, -1, 0};
 	private static final int YPOS_NEIGHBOURS[] = {1, 0, -1, -1, -1, 0, 1, 1};

@@ -22,6 +22,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
+// Authors: Wikcio & MŒ
 public class GuiManager extends JFrame {
 
 	private static final long serialVersionUID = -1446237294057835141L;

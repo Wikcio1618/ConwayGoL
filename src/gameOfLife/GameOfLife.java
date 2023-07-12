@@ -2,6 +2,7 @@ package gameOfLife;
 
 // Testig GitHub
 
+// Author MŒ
 public class GameOfLife {
 	
 	private GuiManager guiMgr;

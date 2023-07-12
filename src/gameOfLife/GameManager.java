@@ -10,6 +10,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 
+// Author MŒ
 public class GameManager {
 	
 	private GameOfLife game;

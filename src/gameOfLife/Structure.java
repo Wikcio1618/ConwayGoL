@@ -3,6 +3,7 @@ package gameOfLife;
 import java.util.HashMap;
 import java.util.Map;
 
+// Author Wikcio
 public class Structure {
 	
 	// Currently not used dimensions that a structure fits in

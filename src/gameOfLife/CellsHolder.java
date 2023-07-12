@@ -1,5 +1,6 @@
 package gameOfLife;
 
+// Authors - Wikcio & MŒ
 public class CellsHolder {
 	
 	static final int WIDTH = 1024;

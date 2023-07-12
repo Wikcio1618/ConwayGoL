@@ -11,6 +11,7 @@ import java.awt.event.MouseWheelEvent;
 import java.awt.event.MouseWheelListener;
 import javax.swing.JPanel;
 
+// Authors: Wikcio and MŒ
 public class GamePanel extends JPanel {
 
 	private static final long serialVersionUID = 4802230154979709652L;
